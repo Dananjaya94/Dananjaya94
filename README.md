@@ -7,7 +7,7 @@
 
 ### 🚀 About Me  
 I'm a passionate **Software Engineer** with 4+ years of experience in developing scalable enterprise applications.  
-I specialize in **Java (Spring Boot, Hibernate)** on the backend and **React.js** on the frontend — building end-to-end systems that are clean, efficient, and user-focused.  
+I specialize in **Java (Spring Boot, Hibernate)** on the backend and **React.js** on the frontend building end-to-end systems that are clean, efficient, and user-focused.  
 
 I enjoy turning complex business requirements into simple, maintainable code and continuously learning new technologies to improve performance and scalability.
 
