@@ -45,11 +45,4 @@ I enjoy turning complex business requirements into simple, maintainable code and
 
 ---
 
-### 📫 Get in Touch  
-- 💌 **Email:** [dananjayapolwattage@gmail.com](mailto:dananjayapolwattage@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/dananjaya-polwattage](https://www.linkedin.com/in/dananjaya94/)  
-- 🧑‍💻 **GitHub:** [github.com/Dananjaya94](https://github.com/Dananjaya94)  
-
----
-
 ⭐ *“Code with clarity, collaborate with purpose, and continuously improve.”*  
