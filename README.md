@@ -55,27 +55,6 @@ I am dedicated to writing **secure, testable, and scalable code**. My approach f
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dananjaya94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://streak-stats.demolab.com/?user=Dananjaya94&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Dananjaya94/Dananjaya94/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ### 📫 Connect With Me
 
 *I am always open to discussing technical challenges and new projects. Please reach out via the platform where you found this profile to ensure we comply with communication guidelines.*
