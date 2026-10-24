@@ -8,7 +8,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dananjaya94&color=2E9EF7&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/Dananjaya94?label=Follow&style=social)
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 </div>
 
