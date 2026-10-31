@@ -2,12 +2,13 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1e2a78&height=180&section=header&text=Dananjaya%20Polwattage&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Software+Engineer;Java+%2B+Spring+Boot+%2B+React;Banking+%7C+ERP+%7C+Insurance+Domains;Building+Scalable+Enterprise+Systems;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Software+Engineer;Java+%2B+Spring+Boot+%2B+React;IFS+Certified+Practitioner+x2;Banking+%7C+ERP+%7C+Insurance)](https://git.io/typing-svg)
 
-🌍 Based in Sri Lanka | 🚀 5.5+ Years of Industry Experience | 🎓 IFS Certified Practitioner
+🌍 Sri Lanka &nbsp;|&nbsp; 🚀 5.5+ years in enterprise software &nbsp;|&nbsp; 🎓 Dual IFS Certified Practitioner
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dananjaya94&color=2E9EF7&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Dananjaya94?label=Follow&style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dananjaya94-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dananjaya94)
+[![Website](https://img.shields.io/badge/Live-lakmalgardens.net-2E9EF7?style=flat&logo=astro&logoColor=white)](https://lakmalgardens.net)
+[![Website](https://img.shields.io/badge/Live-pitstat.com-2E9EF7?style=flat&logo=googlechrome&logoColor=white)](https://pitstat.com)
 
 </div>
 
@@ -15,9 +16,12 @@
 
 ### 🚀 About Me
 
-I am a **Senior Full-Stack Developer** with over 5.5 years of experience architecting and delivering production-ready enterprise applications. I specialize in the **Java/Spring Boot** ecosystem and modern frontend frameworks like **React** and **React Native**.
+Senior Full-Stack Engineer with 5.5+ years building production systems for **banking, ERP and insurance**. My core is **Java, Spring Boot and React**, and I usually end up owning the infrastructure underneath too: Linux servers, Apache load balancers and Tomcat clusters.
 
-I am dedicated to writing **secure, testable, and scalable code**. My approach focuses on maintaining strict API contracts, clean architecture, and leveraging CI/CD pipelines to ensure rapid and reliable delivery.
+- 🏦 **Now:** Bluechip Technical Services, working on **PrismageNext**, a document management platform for Commercial Bank of Ceylon.
+- 🧩 **Before:** ~3 years at **IFS R&D International**, building on IFS Cloud ERP.
+- 🎓 **Certified:** IFS Certified Practitioner (Technical Consultant) and IFS Certified Practitioner (IFS Cloud Web Developer).
+- 📚 **Education:** BSc in Computing (Curtin University, Australia) and MBA (University of Bedfordshire, UK).
 
 ---
 
@@ -25,52 +29,48 @@ I am dedicated to writing **secure, testable, and scalable code**. My approach f
 
 <div align="center">
 
-![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git) ![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Tech](https://skillicons.dev/icons?i=java,spring,react,ts,js,postgres,mysql,docker,linux,git,rails,astro)
 
 </div>
 
-**Backend & APIs:** ☕ Java | Spring Boot | Hibernate | Microservices | REST APIs | Maven | JPA | JUnit 5 | Mockito
-**Frontend & Mobile:** ⚛️ React (Web) | React Native (Mobile) | Redux | JavaScript (ES6+) | TypeScript | Material UI | Bootstrap
-**Database & Infrastructure:** 🗄️ PostgreSQL | MySQL | DB2 | Redis ☁️ AWS (EC2, S3, RDS) | Docker | Docker Compose | Linux | Git | Jenkins (CI/CD)
-**Integrations & Tools:** 🔧 Atlassian Suite (Jira, Confluence) | Postman / Swagger | SonarQube | AI-Assisted Development (Copilot/Cursor)
+**Backend:** Java · Spring Boot · Spring Security · JPA/Hibernate · REST · Maven · JUnit 5 · Mockito
+**Frontend:** React · TypeScript · JavaScript · Tailwind
+**Data:** Oracle PL/SQL · PostgreSQL · MySQL · DB2
+**Platform & Infra:** IFS Cloud · RHEL · Apache (mod_jk) · Tomcat clustering · Docker · CI/CD
+**Exploring:** Ruby on Rails 8 · Astro
 
 ---
 
-### 💡 Key Expertise & Highlights
+### 💡 What I Bring
 
-- **Enterprise-Grade Systems:** Extensive experience building modules for **Banking, ERP, and Insurance** sectors, including work on core banking platforms at Commercial Bank of Ceylon.
-- **Legacy Modernization:** Expert at migrating legacy architectures (e.g., Struts2) into modern **Spring Boot Microservices**, and leading server migrations (RHEL 9, Apache/mod_jk, multi-node Tomcat clustering).
-- **Full-Stack Ownership:** Comfortable owning a feature end-to-end — from **Oracle PL/SQL / DB2** schema design, through **Spring Boot / ASP.NET Core** APIs, to **React.js** front ends.
-- **Mobile Development:** Skilled in building cross-platform mobile applications using **React Native** for seamless user experiences.
-- **Security & Testing:** Strong focus on access control (Spring Security), data encryption, and high test coverage using **JUnit 5** and **Mockito**.
-- **Database Architecture:** Designing optimized schemas for **Oracle, PostgreSQL, MySQL, and DB2** to handle high-concurrency environments.
-- **Cloud & DevOps:** Hands-on with **AWS, Docker, CI/CD pipelines**, and Linux server administration for reliable, repeatable deployments.
-- **Collaborative Workflow:** Experienced in working within Agile teams alongside BAs and UI/UX designers using **Figma** and **Jira**.
-- **Certifications & Education:** IFS Certified Practitioner, BSc in Computing (Curtin University Australia), currently completing an MBA (University of Bedfordshire UK).
+- **Enterprise systems:** Features delivered end to end, from Oracle and DB2 schemas through Spring Boot APIs to React front ends.
+- **Environment builds and migrations:** RHEL 9 server migrations, Apache/mod_jk load balancing and multi-node Tomcat setups mirrored from production.
+- **Modernization:** Moving legacy code (e.g. Struts2) onto Spring Boot.
+- **Security and testing:** Spring Security access control and solid JUnit 5 / Mockito coverage.
+- **Team workflow:** Agile delivery alongside BAs and designers in Jira and Figma, with AI-assisted tooling (Claude Code, Copilot) used carefully.
 
 ---
 
-### 📈 Current Projects & Focus
+### 📈 Things I'm Building
 
-- 🌿 **Landscaping Company Website:** Building and shipping a production site (**Astro + React + Tailwind**) for a family landscaping business.
-- 🌱 **Plant Species Catalogue:** A **React + TypeScript + Vite** app with a custom herbarium-inspired design system for browsing plant species.
-- 🧾 **Offline Quotation Generator:** A standalone **Spring Boot + React** app (packaged as a single JAR) for fast, offline quotation creation with PDF export.
-- 🏦 **Enterprise Banking Systems:** Contributing to core banking platform work, including pre-production environment migrations (RHEL 9, Apache/mod_jk, Tomcat clustering).
-- ☁️ **Cloud Architecture:** Scaling applications using **AWS/Cloudflare** and containerizing services with **Docker** for consistent environments.
-- 🤖 **AI-Assisted Development:** Using AI-driven workflows (Claude Code, Copilot) to accelerate development speed and improve code quality responsibly.
-- 💼 **Actively Exploring New Opportunities:** Open to Senior/Lead Full-Stack roles in Java/Spring or React ecosystems.
+| Project | What it is | Stack |
+|---|---|---|
+| 🌿 [lakmalgardens.net](https://lakmalgardens.net) | Production site for a family landscaping business | Astro · React · Tailwind |
+| 🧾 Quotation Generator | Offline quote builder with PDF export, shipped as a single JAR | Spring Boot · React |
+| 🌱 Plant Species Catalogue | Plant browser with a herbarium-inspired design system | React · TypeScript · Vite |
+| 🧬 Helix Studio | Interactive molecular biology lab for students | TypeScript |
+| 📋 JobTrail | Job application tracker for job seekers anywhere | Ruby on Rails 8 |
+| 🏁 [pitstat.com](https://pitstat.com) | Live site | TypeScript |
 
----
-
-### 📫 Connect With Me
-
-*I am always open to discussing technical challenges and new projects. Please reach out via the platform where you found this profile to ensure we comply with communication guidelines.*
+<!-- Link each project name to its repo once that repo is public. -->
 
 ---
+
+### 📫 Connect
+
+Open to **Senior and Lead Full-Stack roles** in the Java/Spring and React ecosystems. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/dananjaya94).
 
 <div align="center">
-
-⭐ *"Code with clarity, deliver with security, and continuously improve."*
 
 ![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e2a78,100:2E9EF7&height=120&section=footer)
 
