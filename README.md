@@ -64,7 +64,6 @@ Senior Full-Stack Engineer with 5.5+ years building production systems for **ban
 | 🎓 **IntelliQuiz** | Quiz platform covering the full Sri Lankan O-Level ICT syllabus (Grades 10 and 11). Students take topic quizzes and track progress; a teacher manages questions, topics and students. Ships as a single jar | Java 21 · Spring Boot · Spring Security · JPA · PostgreSQL · JWT · React 19 · Vite · MUI |
 | 📋 **JobTrail** | Free, private job application tracker with a drag-and-drop Kanban board from Wishlist to Offer (and Ghosted) | Ruby on Rails 8 · Hotwire · SQLite · Docker · Kamal |
 | 🧬 **Helix Studio** | Local-first DNA sequence toolkit: open FASTA and GenBank files, view both strands and translations, find restriction sites, ORFs and CRISPR guides. Everything runs on-device | React · TypeScript · Vite · Tailwind · shadcn/ui · Tauri · IndexedDB |
-| 🧾 **Lakmal Gardens Quotation App** | Offline quotation generator: pick a client, add line items from a rate card, export a branded PDF. No internet or database server needed | Spring Boot · React · Vite · Tailwind · OpenPDF |
 | 🌿 **[lakmalgardens.net](https://lakmalgardens.net)** | Production website for a landscaping business, with the photo gallery served from object storage | Astro · React islands · Tailwind · Cloudflare R2 |
 
 ### 🧪 More Projects
