@@ -92,22 +92,7 @@ Production-style projects with tests and CI, built around the problems I solve a
 | 🌱 **Plant Species Studio** | Field-catalogue style gallery for browsing plant species with fast search and filtering | React · TypeScript · Vite |
 | 🎮 **[Gaming Platform](https://github.com/Dananjaya94/gamingplatform)** | REST backend and [React frontend](https://github.com/Dananjaya94/gaming-platform-frontend) for managing games, users and scores | Java · Spring Boot · React |
 
-<details>
-<summary>📦 Earlier work</summary>
 
-<br>
-
-| Project | What it is | Stack |
-|---|---|---|
-| [Quiz App](https://github.com/Dananjaya94/Quiz-App) + [API](https://github.com/Dananjaya94/Quiz-App-API) | Quiz app with a .NET backend | React · ASP.NET Core Web API |
-| [MarketingExecutiveApp](https://github.com/Dananjaya94/MarketingExecutiveApp) | Claims tool for insurance marketing executives | ASP.NET |
-| [Student-Management-App](https://github.com/Dananjaya94/Student-Management-App) | Student records app | ASP.NET Core |
-| [Expense-Manager](https://github.com/Dananjaya94/Expense-Manager) · [Investment-Calculator](https://github.com/Dananjaya94/Investment-Calculator) | Small React apps | React |
-| [Student-Management-System](https://github.com/Dananjaya94/Student-Management-System) | Student records system | Java |
-
-</details>
-
-<!-- Projects without links are private. Add a link to each one when you make its repo public. -->
 
 ---
 
