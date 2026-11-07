@@ -21,7 +21,7 @@ Senior Full-Stack Engineer with 5.5+ years building production systems for **ban
 - 🏦 **Now:** Bluechip Technical Services, working on **PrismageNext**, a document management platform for Commercial Bank of Ceylon.
 - 🧩 **Before:** ~3 years at **IFS R&D International**, building on IFS Cloud ERP.
 - 🎓 **Certified:** IFS Certified Practitioner (Technical Consultant) and IFS Certified Practitioner (IFS Cloud Web Developer).
-- 📚 **Education:** BSc in Computing (Curtin University, Australia) and MBA (University of Bedfordshire, UK).
+- 📚 **Education:** BSc in Computing (Curtin University, Australia).
 
 ---
 
