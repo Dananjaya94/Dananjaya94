@@ -31,17 +31,20 @@ Senior Full-Stack Engineer with 5.5+ years building production systems for **ban
 
 ![Tech](https://skillicons.dev/icons?i=java,spring,maven,react,ts,js,vite,tailwind,materialui,nextjs,astro,threejs&perline=12)
 ![Tech](https://skillicons.dev/icons?i=ruby,rails,rust,tauri,postgres,mysql,sqlite,docker,cloudflare,redhat,linux,githubactions&perline=12)
+![Tech](https://skillicons.dev/icons?i=py,fastapi,redis,prometheus,grafana&perline=12)
 
 </div>
 
 | Area | Tools |
 |---|---|
-| **Backend** | Java 21 · Spring Boot · Spring Security · Spring Data JPA / Hibernate · JWT (JJWT) · REST · Maven · JUnit 5 · Mockito |
+| **Backend** | Java 21 · Spring Boot · Spring Cloud Gateway · Spring Security (OAuth2, JWT) · Spring Data JPA / Hibernate · Flyway · REST · Maven · Python · FastAPI |
+| **Testing** | JUnit 5 · Mockito · Testcontainers · WireMock · pytest · Vitest |
+| **AI / LLM** | RAG pipelines · pgvector · sentence-transformers · Claude API · hybrid search |
 | **Frontend** | React 19 · TypeScript · JavaScript · Vite · Tailwind CSS · shadcn/ui · MUI · TanStack Query · Zustand · Next.js · Astro |
 | **3D & Desktop** | Three.js (react-three-fiber) · Tauri · Qt/QML |
 | **Rails** | Ruby on Rails 8 · Hotwire · Kamal |
-| **Data** | Oracle PL/SQL · PostgreSQL · MySQL · DB2 · SQLite · IndexedDB |
-| **Platform & Infra** | IFS Cloud · RHEL 9 · Apache (mod_jk) · Tomcat clustering · Docker · Cloudflare (Pages, Workers, R2) · GitHub Actions |
+| **Data** | Oracle PL/SQL · PostgreSQL · MySQL · DB2 · Redis (Streams, queues) · SQLite · IndexedDB |
+| **Platform & Infra** | IFS Cloud · RHEL 9 · Apache (mod_jk) · Tomcat clustering · Docker · Keycloak · Prometheus · Grafana · Cloudflare (Pages, Workers, R2) · GitHub Actions |
 | **Earlier** | C# · ASP.NET Core Web API |
 
 ---
@@ -53,6 +56,19 @@ Senior Full-Stack Engineer with 5.5+ years building production systems for **ban
 - **Modernization:** Moving legacy code (e.g. Struts2) onto Spring Boot.
 - **Security and testing:** Spring Security access control and solid JUnit 5 / Mockito coverage.
 - **Team workflow:** Agile delivery alongside BAs and designers in Jira and Figma, with AI-assisted tooling (Claude Code, Copilot) used carefully.
+
+---
+
+### ⭐ Open-Source Reference Projects
+
+Production-style projects with tests and CI, built around the problems I solve at work.
+
+| Project | What it shows | Stack |
+|---|---|---|
+| 🏦 **[Ledger Platform](https://github.com/Dananjaya94/spring-microservices-platform)** | Payments ledger as microservices: double-entry accounting, **idempotent transfers**, ordered row locking (a 400-transfer concurrency test proves no money is lost), **transactional outbox** to Redis Streams, API gateway with rate limiting and circuit breakers | Java 21 · Spring Boot 3.5 · Spring Cloud Gateway · OAuth2/Keycloak · PostgreSQL · Redis · Testcontainers · Prometheus · Grafana |
+| 🔎 **[RAG DocSearch](https://github.com/Dananjaya94/rag-docsearch)** | Self-hosted document Q&A with **hybrid retrieval** (pgvector + Postgres full-text, fused with RRF), page-level citations, async ingestion workers, grounded answers from Claude | Python · FastAPI · PostgreSQL + pgvector · Redis/RQ · sentence-transformers · React · TypeScript |
+| 🧩 **[IFS Cloud OData Client](https://github.com/Dananjaya94/ifs-cloud-odata-client)** | Java library and CLI for IFS Cloud projection APIs: IAM token caching, lazy paging, injection-safe filters, ETag optimistic locking, safe retries, CSV export | Java 21 · java.net.http · Jackson · picocli · WireMock |
+| ⚖️ **[Tomcat LB + Observability](https://github.com/Dananjaya94/tomcat-lb-observability)** | Apache httpd + mod_jk in front of a Tomcat cluster: sticky sessions, failover proven in CI, Ghostcat-hardened AJP, JMX metrics, Grafana dashboard, **unit-tested alert rules** | Apache httpd · mod_jk · Tomcat 10.1 · Prometheus · Grafana · Docker |
 
 ---
 
